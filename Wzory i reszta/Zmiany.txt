@@ -1,0 +1,5 @@
+V1-goto
+V11-Czyszczenie, ekrany,przejscia
+v12-cofanie, wyjscie w menu g³ównym
+V13-Dodanie wiêkszej iloœci zmiennych
+v14-Dodanie nowych wzorów
